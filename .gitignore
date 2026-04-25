@@ -1,0 +1,5 @@
+task_envs/
+__pycache__/
+*.pyc
+results/*/
+!results/report.html
